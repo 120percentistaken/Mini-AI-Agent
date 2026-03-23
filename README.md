@@ -6,7 +6,7 @@ Built as a technical assessment. Kept simple on purpose.
 
 ---
 
-## What it does
+## What does it do?
 
 You hit one endpoint — `POST /chat` — with a message like *"What's the weather in Manila?"* and the agent decides whether to use a tool or answer from its own knowledge. The response always tells you what tool was used (if any) and what it returned.
 
